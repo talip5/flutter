@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1002360732945",
+    "firebase_url": "https://cloud1-391e3.firebaseio.com",
+    "project_id": "cloud1-391e3",
+    "storage_bucket": "cloud1-391e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002360732945:android:41c6ce3ada83ab356e20b0",
+        "android_client_info": {
+          "package_name": "com.example.cloud1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002360732945-isj0ekrq83e7cfeel6vka3emmrnki0i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgGy31dbM4a3ffvzqOjhW-QRnj5sV4NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002360732945-isj0ekrq83e7cfeel6vka3emmrnki0i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002360732945:android:d3b20cf22635fbf16e20b0",
+        "android_client_info": {
+          "package_name": "com.example.future_deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002360732945-isj0ekrq83e7cfeel6vka3emmrnki0i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgGy31dbM4a3ffvzqOjhW-QRnj5sV4NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002360732945-isj0ekrq83e7cfeel6vka3emmrnki0i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002360732945:android:333e3040d3e8bfc76e20b0",
+        "android_client_info": {
+          "package_name": "com.example.futurebuilderfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002360732945-isj0ekrq83e7cfeel6vka3emmrnki0i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgGy31dbM4a3ffvzqOjhW-QRnj5sV4NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002360732945-isj0ekrq83e7cfeel6vka3emmrnki0i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
